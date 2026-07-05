@@ -20,7 +20,7 @@ Ushbu loyiha Python dasturlash tilida mantiqiy shart operatorlari (`if-elif-else
 Dasturlashda mantiqiy fikrlashni oshirish hamda shartlarni to'g'ri ketma-ketlikda joylashtirish ko'nikmasini shakllantirish ushbu loyihaning bosh maqsadi hisoblanadi[span_3](start_span)[span_3](end_span).
 
 * **Asosiy Video Manba:** YouTube platformasidagi **FarruxDeveloper** kanalining Python darslari.
-* **Topshiriq Asosi:** Videodars davomida ko'rsatilgan `Screenshot_20260705-111357_YouTube.jpg` rasmidagi 80 ta imtihon savollari to'plamining `if28` (Kabisa yili) masalasi[span_4](start_span)[span_4](end_span).
+* **Topshiriq Asosi:** Videodars davomida ko'rsatilgan  80 ta imtihon savollari to'plamining `if28` (Kabisa yili) masalasi[span_4](start_span)[span_4](end_span).
 * **Kengaytirilgan Topshiriqlar:** Shuningdek, mantiqni yanada chuqurroq mashq qilish uchun ushbu repozitoriyaga biriktirilgan [python_shart_operatorlari_mashqlar.pdf](./python_shart_operatorlari_mashqlar.pdf) faylidagi qo'shimcha masalalar ham o'rin olgan[span_5](start_span)[span_5](end_span).
 
 ## ⚙️ Algoritm va Shartlar Mantig'i
@@ -39,16 +39,7 @@ Dastur quyidagi mantiqiy zanjir asosida ishlaydi[span_6](start_span)[span_6](end
 * **Dasturlash tili:** Python 3.x[span_12](start_span)[span_12](end_span)
 * **Dasturlash muhiti:** Pydroid 3 (Mobil qurilmada yozildi va sinovdan o'tkazildi)[span_13](start_span)[span_13](end_span)
 
-## 🚀 Qanday Ishga Tushiriladi?
 
-1. Ushbu loyihani kompyuter yoki telefoningizga yuklab oling.
-2. Terminal yoki Pydroid 3 muhitida `main.py` faylini oching va ishga tushiring:
-
-```bash
-python main.py
-
-
----
 
 ## 🛠️ Ishlatilayotgan muhit
 - **Til:** Python 3
